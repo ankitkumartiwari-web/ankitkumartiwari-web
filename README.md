@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since I started coding — and fixing them ever since<br><br>📚 I'm currently learning<br><br>* System design fundamentals<br>* Advanced backend development<br>* Writing cleaner, scalable code<br><br>🎯 Goals<br><br>* Build production-ready full-stack applications<br>* Strengthen problem-solving and DSA<br>* Contribute to meaningful real-world projects<br><br>🎲 Fun fact<br><br>* I debug faster when I stop staring at the screen 😄</p>
+<p align="left">✨ Creating bugs since I started coding — and fixing them ever since<br><br>📚 I'm currently learning<br><br>• System design fundamentals<br>• Advanced backend development<br>• Writing cleaner, scalable code<br><br>🎯 Goals<br><br>• Build production-ready full-stack applications<br>• Strengthen problem-solving and DSA<br>• Contribute to meaningful real-world projects<br><br>🎲 Fun fact<br><br>• I debug faster when I stop staring at the screen 😄</p>
 
 ###
 
